@@ -20,11 +20,8 @@
     "WebApplication1_Jelastic": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "applicationUrl": "http://0.0.0.0",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      "launchBrowser": false,
+      "applicationUrl": "http://0.0.0.0:80",
     },
     "IIS Express": {
       "commandName": "IISExpress",
