@@ -21,7 +21,8 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
-      "applicationUrl": "http://0.0.0.0:7500"
+      "applicationUrl": "http://0.0.0.0:7500",
+      "https_port": 443
     },
     "IIS Express": {
       "commandName": "IISExpress",
